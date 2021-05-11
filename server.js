@@ -22,6 +22,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
   useFindAndModify: false,
 });
 
+//this change should work
 // mongoose.connect("mongodb://localhost/budget", {
 //   useNewUrlParser: true,
 //   useFindAndModify: false
