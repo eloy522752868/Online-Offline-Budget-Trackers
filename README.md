@@ -8,7 +8,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ### Generated HTML
 
-![Team Site](./public/images/fitnesstracker.png)
+![Online-Offline-Budget-Trackers Image](./public/images/budgettracker.png)
 
 ### Deployed Site Details
 
@@ -16,4 +16,4 @@ Link to readme file below:
 
 [GitHubRepo](https://github.com/eloy522752868/Online-Offline-Budget-Trackers)
 
-[Workout Tracker Link](https://murmuring-forest-89074.herokuapp.com/?id=6095a18e3ba332001518487c)
+[Online-Offline-Budget-Trackers Link](https://infinite-coast-07125.herokuapp.com/)
